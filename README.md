@@ -1,2 +1,3 @@
 # Ecommerce-Back-End
+Discription
 An application that is the back end for an acting e-commerce site. Built with JavaScript, the app uses an Express.js API to use Sequelize to interact with a MySQL database. The app stores categories, products, and tags in the database, and functions to retrieve the desired information about each table and their corresponding tables, while also being able to make edits.
